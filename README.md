@@ -1,4 +1,4 @@
-# Hi there 👋
+## Hi there 👋
 I'm Avi, a Python and PHP developer focused on web development, obsessed with automation, and passionate about application architecture.
 
 - 📫 You can reach me via the contact information listed on my [personal site](https://aviperl.me/).
@@ -16,11 +16,18 @@ I'm Avi, a Python and PHP developer focused on web development, obsessed with au
 <details>
   <summary>My Favorite Librarys</summary>
   
+  **Libraries I'm proficient with**
   - [Scrapy](https://scrapy.org/)
   - [Django](https://www.djangoproject.com/)
   - [Fast API](https://fastapi.tiangolo.com/)
   - [Typer](https://typer.tiangolo.com/) / [Click](https://click.palletsprojects.com/)
   - [React](https://reactjs.org/) / [Next.js](https://nextjs.org/)
+
+  **Libraries I'm excited about**
+  - [SQLModel](https://sqlmodel.tiangolo.com/)
+  - [Textual](https://github.com/willmcgugan/textual)
+  - [rich_](https://github.com/willmcgugan/rich)
+
 </details>
 
 ---
