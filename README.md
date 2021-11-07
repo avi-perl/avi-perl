@@ -1,8 +1,18 @@
 ## Hi there 👋
 I'm Avi, a Python and PHP developer focused on web development, obsessed with automation, and passionate about application architecture.
 
-- 📫 You can reach me via the contact information listed on my [personal site](https://aviperl.me/).
+📫 You can reach me via the contact information listed on my [personal site](https://aviperl.me/).
+
 ---
+
+<details>
+  <summary>My Personal Projects</summary>
+  
+  - [`rich-tools`](https://github.com/avi-perl/rich_tools) - A Python package with helpful functions for use alongside the `rich` Python library.
+  - [`HebrewString`](https://github.com/avi-perl/HebrewString) - A python package with methods to handle the complexities of Hebrew text.
+  - [FormHole](https://github.com/avi-perl/FormHole) - A FastAPI project that supports the storage and management of objects of unknown schema.
+  - [Document Parser API](https://github.com/avi-perl/Parsel-Selector-API) - An API for parsing online documents. (E.g. HTML, JSON, etc.)
+</details>
 
 <details>
   <summary>My Favorite Books</summary>
@@ -26,7 +36,7 @@ I'm Avi, a Python and PHP developer focused on web development, obsessed with au
   **Libraries I'm excited about**
   - [SQLModel](https://sqlmodel.tiangolo.com/)
   - [Textual](https://github.com/willmcgugan/textual)
-  - [rich_](https://github.com/willmcgugan/rich)
+  - [rich](https://github.com/willmcgugan/rich)
 
 </details>
 
