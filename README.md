@@ -9,7 +9,7 @@ I'm Avi, a Python and PHP developer focused on web development, obsessed with au
   <summary>My Personal Projects</summary>
   
   - [`rich-tools`](https://github.com/avi-perl/rich_tools) - A Python package with helpful functions for use alongside the `rich` Python library.
-  - [`HebrewString`](https://github.com/avi-perl/HebrewString) - A python package with methods to handle the complexities of Hebrew text.
+  - [`Hebrew`](https://github.com/avi-perl/Hebrew) - A python package with methods to handle the complexities of Hebrew text.
   - [FlowersFirst.ch](https://flowersfirst.ch/) - A website for a mini flower shop that manages itself.
   - [FormHole](https://github.com/avi-perl/FormHole) - A FastAPI project that supports the storage and management of objects of unknown schema.
   - [Document Parser API](https://github.com/avi-perl/Parsel-Selector-API) - An API for parsing online documents. (E.g. HTML, JSON, etc.)
