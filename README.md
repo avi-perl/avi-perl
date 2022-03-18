@@ -1,8 +1,6 @@
 ## Hi there 👋
 I'm Avi, a Python and PHP developer focused on web development, obsessed with automation, and passionate about application architecture.
 
-📚 Currently I am learning Vue, Laravel, and how to delevop film at home. 
-
 📫 You can reach me via the contact information listed on my [personal site](https://aviperl.me/).
 
 ---
@@ -21,6 +19,7 @@ I'm Avi, a Python and PHP developer focused on web development, obsessed with au
   <summary>My Favorite Books</summary>
   
   - [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
+  - [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290/)
   - [Effective Python](https://effectivepython.com/)
   - [Robust Python](https://www.oreilly.com/library/view/robust-python/9781098100650/)
   - [Python Tricks](https://realpython.com/products/python-tricks-book/)
