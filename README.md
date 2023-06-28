@@ -8,6 +8,7 @@ I'm Avi, a Python and PHP developer focused on web development, obsessed with au
 <details>
   <summary>My Personal Projects</summary>
   
+  - [Blog with Gists](https://gist.aviperl.me/)
   - [`rich-tools`](https://github.com/avi-perl/rich_tools) - A Python package with helpful functions for use alongside the `rich` Python library.
   - [`Hebrew`](https://github.com/avi-perl/Hebrew) - A python package with methods to handle the complexities of Hebrew text.
   - [FlowersFirst.ch](https://flowersfirst.ch/) - A website for a mini flower shop that manages itself.
@@ -23,6 +24,7 @@ I'm Avi, a Python and PHP developer focused on web development, obsessed with au
   - [Effective Python](https://effectivepython.com/)
   - [Robust Python](https://www.oreilly.com/library/view/robust-python/9781098100650/)
   - [Python Tricks](https://realpython.com/products/python-tricks-book/)
+  - [Failure is not an option](https://www.amazon.com/Failure-Not-Option-Mission-Control/dp/1439148813)
 </details>
 
 <details>
@@ -42,7 +44,4 @@ I'm Avi, a Python and PHP developer focused on web development, obsessed with au
 
 </details>
 
----
-```python
-😈 = 'aHR0cHM6Ly9iaXQubHkvM3hFRFFZTg=='
-```
+<a href="https://www.buymeacoffee.com/aviperl" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
