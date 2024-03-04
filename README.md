@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Avi, a software developer focused on web development, automation, and application architecture.
+I'm Avi, a developer with a strong background in custom full-stack software design and implementation, usually on the web. Frequently in Python, ideally in Kotlin, and sometimes in PHP.
 
 📫 You can reach me via the contact information listed on my [personal site](https://aviperl.me/).
 
@@ -8,7 +8,6 @@ I'm Avi, a software developer focused on web development, automation, and applic
 <details>
   <summary>My Personal Projects</summary>
   
-  - [FlowersFirst.ch](https://flowersfirst.ch/) - A website for a mini flower shop that manages itself.
   - [FormHole](https://github.com/avi-perl/FormHole) - A FastAPI project that supports the storage and management of objects of unknown schema.
   - [Gist blog](https://gist.aviperl.me/) - Convert your github gists into a rich discoverable personal blog.
   - [`Hebrew`](https://github.com/avi-perl/Hebrew) - A python package with methods to handle the complexities of Hebrew text.
@@ -43,5 +42,3 @@ I'm Avi, a software developer focused on web development, automation, and applic
   - [Textual](https://github.com/willmcgugan/textual)
 
 </details>
-
-<a href="https://www.buymeacoffee.com/aviperl" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
